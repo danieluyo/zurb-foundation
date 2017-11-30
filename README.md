@@ -1,4 +1,4 @@
-# Laravel 5.5.x Front-end Preset For Zurb Foundation
+# Zurb Foundation Frontend Preset For Laravel Framework 5.5 and Up
 
 Preset for Zurb Foundation 6 scaffolding on new Laravel 5.5.x project.
 
@@ -13,3 +13,6 @@ Preset for Zurb Foundation 6 scaffolding on new Laravel 5.5.x project.
 6. Configure your favorite database (mysql, sqlite etc.)
 7. `php artisan migrate` to create basic user tables.
 8. `php artisan serve` (or equivalent) to run server and test preset.
+
+## Screenshots
+![Foundation login screen](/screenshots/foundation_login_screen.jpg)
